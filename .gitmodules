@@ -1,6 +1,6 @@
 [submodule "git-tools"]
 	path = git-tools
-	url = git@github.com:torgebo/git-tools.git
+	url = https://github.com/torgebo/git-tools.git
 [submodule "dsutils"]
 	path = dsutils
-	url = git@github.com:torgebo/dsutils.git
+	url = https://github.com/torgebo/dsutils.git
