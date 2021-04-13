@@ -10,3 +10,5 @@ source "$HOME/bash_profile/git-tools/aliases.sh"
 
 # dsutils to path
 export PATH=$PATH:/$HOME/bash_profile/dsutils
+
+source ./git-tools/display_gitbranch
