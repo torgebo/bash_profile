@@ -8,7 +8,9 @@ source "$HOME/bash_profile/bash_aliases.bash"
 # Git aliases
 source "$HOME/bash_profile/git-tools/aliases.sh"
 
+# Git aliases
+source "$HOME/bash_profile/git-tools/display_gitbranch"
+
+
 # dsutils to path
 export PATH=$PATH:/$HOME/bash_profile/dsutils
-
-source ./git-tools/display_gitbranch
